@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Oussama Fannouch (AKA THE WOLF), a full-time engineering student 👨‍💻 </div>  
+### <div align="center">I'm Oussama Fannouch (AKA D1B), a full-time engineering student 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on CyberSecurity Projects.
