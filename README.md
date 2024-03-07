@@ -6,13 +6,13 @@
 ### <div align="center">I'm Oussama Fannouch (AKA THE WOLF), a full-time engineering student 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [1337 projects]  
+- 🔭 I’m currently working on CyberSecurity Projects.
   
 
-- 🌱 I’m currently learning Python and HTML&CSS  
+- 🌱 I’m currently learning Python and HTML&CSS
   
 
-- ❓ Ask me about anything related to C language and Python  
+- ❓ Ask me about anything related to C language and Python and bash
   
 
 - ⚡ Fun fact: I'm a wolf  
