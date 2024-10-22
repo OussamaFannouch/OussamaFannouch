@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on CyberSecurity Projects.
   
 
-- 🌱 I’m currently learning Python and HTML&CSS
+- 🌱 I’m currently learning about Reverse engineering and Cloud.
   
 
 - ❓ Ask me about anything related to C language and Python and bash
