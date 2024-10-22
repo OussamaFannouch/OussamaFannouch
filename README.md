@@ -28,10 +28,11 @@
 
 ### CyberSkills 
 <div align="center">  
-<a href="" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjarush8rL4eLAraJHuE9OJeSaE-O0JkErA&s" alt="Web and AD pentesting" height="50" /></a>  
-<a href="" target="_blank"><img style="margin: 10px" src="https://www.cybher.org/wp-content/uploads/2023/08/capture-the-flag.jpg" alt="CTF player" height="50" /></a>  
+<a href="" target="_blank"><img style="margin: 10px" src="https://static.thenounproject.com/png/4957903-200.png" alt="Bug Hunter" height="50" /></a>  
+<a href="" target="_blank"><img style="margin: 10px" src="https://capturetheflag.withgoogle.com/img/Flag.png" alt="CTF player" height="50" /></a> 
+<a href="" target="_blank"><img style="margin: 10px" src="https://materials.rangeforce.com/img/reverse-engineering/ghidra.png" alt="Reverse engineering" height="50" /></a> 
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" height="50" />
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://delta-dev-software.fr/wp-content/uploads/2024/02/Gnu-bash-logo.svg_.png" alt="Linux" height="50" />
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://delta-dev-software.fr/wp-content/uploads/2024/02/Gnu-bash-logo.svg_.png" alt="Bash scripting" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
