@@ -1,5 +1,3 @@
-# readmme
-
 <p align="center"><a href="https://github.com/shamimsikder"><img src="https://media.tenor.com/1DcpMsFHiugAAAAi/furry-pat.gif" alt="Wolf" /></a></p>
 
 <div align="center">
